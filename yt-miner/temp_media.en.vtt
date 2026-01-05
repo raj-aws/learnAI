@@ -1,0 +1,813 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.919
+I've always been jealous of Winston Churchill.
+
+00:00:02.961 --> 00:00:04.546
+There's a quote, by the way.
+
+00:00:04.546 --> 00:00:08.091
+The history of innovation
+is the bed, the bus and the bathtub.
+
+00:00:08.216 --> 00:00:11.553
+It's always these moments
+when we're not really thinking about work
+
+00:00:11.678 --> 00:00:15.098
+or we're kind of doing something else
+that good ideas come to us.
+
+00:00:15.140 --> 00:00:15.974
+Winston Churchill,
+
+00:00:16.099 --> 00:00:20.270
+He's sitting in the bathtub,
+and he's dictating a national address
+
+00:00:20.353 --> 00:00:22.105
+to his assistant who's in the other room.
+
+00:00:22.230 --> 00:00:25.358
+She's saying, "distinguished ladies and gentlemen"
+
+00:00:25.358 --> 00:00:27.277
+"Don't call them distinguished"
+
+00:00:27.360 --> 00:00:28.319
+"They're not"
+
+00:00:28.361 --> 00:00:31.114
+This is the Gary Oldman version.
+"They're not distinguished."
+
+00:00:31.239 --> 00:00:35.118
+You know, "Dear ladies and gentlemen, we have gathered together."
+
+00:00:35.160 --> 00:00:36.453
+"Get to the point!"
+
+00:00:37.662 --> 00:00:39.664
+and I'm watching this going
+
+00:00:39.706 --> 00:00:45.754
+I would give anything to have an assistant
+who understood my context and my voice and
+
+00:00:45.879 --> 00:00:50.467
+my intent well enough that I could sit in
+the bath and they could write my speech.
+
+00:00:50.592 --> 00:00:54.512
+Now, the poorest villager in Palo Alto
+
+00:00:54.512 --> 00:00:57.057
+can have what only Winston Churchill
+
+00:00:57.140 --> 00:00:57.891
+used to have,
+
+00:00:58.016 --> 00:01:04.314
+which is an assistant that has my context
+and my voice and my intent available to me
+
+00:01:04.355 --> 00:01:08.485
+so that when I'm in the bathtub,
+I can be dictating my address.
+
+00:01:08.610 --> 00:01:12.906
+That is absolutely
+technically possible today.
+
+00:01:12.906 --> 00:01:15.617
+Exploring Human Agency in the age of AI
+
+00:01:15.617 --> 00:01:18.536
+Exploring Human Agency in the age of AI : Uncoded
+
+00:01:18.536 --> 00:01:20.705
+Ep.1 How to Become a Better Collaborator with AI
+
+00:01:20.705 --> 00:01:24.626
+I'm Jeremy Utley,
+I'm an adjunct professor of creativity
+
+00:01:24.709 --> 00:01:26.753
+and AI at Stanford University.
+
+00:01:26.878 --> 00:01:29.506
+I've been teaching at Stanford
+for the last 15 years
+
+00:01:29.631 --> 00:01:33.301
+at the intersection of creativity,
+innovation, entrepreneurship, and now
+
+00:01:33.343 --> 00:01:35.762
+increasingly, artificial intelligence.
+
+00:01:35.804 --> 00:01:41.059
+The topic that I'm most focused on right
+now is helping non-technical professionals
+
+00:01:41.184 --> 00:01:46.314
+learn to be good collaborators to or with generative AI. 
+
+00:01:46.314 --> 00:01:47.649
+And then two years ago,
+
+00:01:47.774 --> 00:01:51.653
+myself and my partner at the time,
+Perry Klebahn, wrote a book called
+
+00:01:51.736 --> 00:01:56.783
+Idea Flow, which was the canonical book
+on idea generation and prototyping.
+
+00:01:56.908 --> 00:01:58.034
+So super proud of that.
+
+00:01:58.076 --> 00:02:02.080
+It was the culmination of a dozen years
+of leading executive programs
+
+00:02:02.205 --> 00:02:06.209
+and the leadership program and the
+entrepreneurship program at Stanford.
+
+00:02:06.251 --> 00:02:11.548
+And one month after our book came out,
+ChatGPT came out.
+
+00:02:11.548 --> 00:02:18.096
+To me, the fact that I wrote the canonical book
+on Idea generation just prior to AI
+
+00:02:18.221 --> 00:02:23.226
+is like writing the best book on retail
+just before the internet.
+
+00:02:23.268 --> 00:02:27.981
+AI is a tool to dramatically augment
+and amplify our creativity.
+
+00:02:28.106 --> 00:02:31.401
+And the truth is, I didn't know
+a lot about it when the book came out.
+
+00:02:31.484 --> 00:02:36.489
+So one month after my book came out,
+instead of going on a world book tour,
+
+00:02:36.573 --> 00:02:41.244
+I strapped myself back into the front row
+as a student and said,
+
+00:02:41.286 --> 00:02:44.163
+I need to be learning about
+this transformative new technology.
+
+00:02:44.289 --> 00:02:47.417
+So I started taking classes.
+I started conducting research.
+
+00:02:47.500 --> 00:02:52.797
+I started working with and studying teams
+inside of organizations, using the tool
+
+00:02:52.881 --> 00:02:55.091
+to understand the simple question,
+
+00:02:55.133 --> 00:03:00.597
+how does generative AI impact
+the individual and the team and the
+
+00:03:00.722 --> 00:03:04.726
+organization's ability to solve problems?
+
+00:03:04.726 --> 00:03:06.811
+Chapter1. Don't Ask AI, Let It Ask You
+
+00:03:06.811 --> 00:03:09.814
+You can give an AI a prompt, for example.
+
+00:03:09.898 --> 00:03:12.525
+How should I answer this question?
+
+00:03:12.609 --> 00:03:15.528
+Or you could give an AI
+the question
+
+00:03:15.528 --> 00:03:18.448
+I want to ask how I should answer this question.
+
+00:03:18.448 --> 00:03:22.744
+What's the best way of framing
+that question to an AI?
+
+00:03:22.869 --> 00:03:24.287
+So you see what I did there?
+
+00:03:24.287 --> 00:03:27.999
+I asked AI for how to ask I my question,
+
+00:03:28.041 --> 00:03:33.838
+but you can use AI to use AI, which is
+you couldn't use Excel to use Excel.
+
+00:03:33.922 --> 00:03:35.840
+PowerPoint can't teach you how to use PowerPoint.
+
+00:03:35.924 --> 00:03:37.759
+Email can't teach you how to use email.
+
+00:03:37.884 --> 00:03:41.763
+AI strangely can teach you
+how to use itself if you think to ask.
+
+00:03:41.888 --> 00:03:45.475
+Go to your language model of choice
+and just say the following.
+
+00:03:45.558 --> 00:03:48.061
+Hey, you're an AI expert.
+
+00:03:48.144 --> 00:03:53.483
+I would love your help and a consultation
+with you to help me figure out
+
+00:03:53.566 --> 00:03:56.778
+where I can best leverage AI in my life.
+
+00:03:56.903 --> 00:04:01.074
+As an AI expert, would you please ask
+me questions one question at a time,
+
+00:04:01.199 --> 00:04:05.620
+until you have enough context about my
+workflows and responsibilities and KPIs
+
+00:04:05.662 --> 00:04:07.664
+and and objectives that you could
+
+00:04:07.789 --> 00:04:12.502
+make two obvious recommendations
+and two non-obvious recommendations
+
+00:04:12.585 --> 00:04:15.254
+for how AI could leverage AI in my work.
+
+00:04:15.380 --> 00:04:20.218
+you will have one of the most enlightening
+and illuminating conversations you've ever had,
+
+00:04:20.218 --> 00:04:24.472
+and it's all because of AI's ability to evaluate its own work. 
+
+00:04:24.555 --> 00:04:28.685
+What I've seen is non-technical employees
+are able to do incredible things.
+
+00:04:28.768 --> 00:04:29.811
+Here's one example.
+
+00:04:29.894 --> 00:04:32.981
+The National Park Service called me
+and asked me if I would
+
+00:04:33.064 --> 00:04:37.110
+conduct a training program
+for a bunch of backcountry rangers,
+
+00:04:37.193 --> 00:04:42.115
+so they gathered a group of about 60
+backcountry rangers and facilities managers
+
+00:04:42.115 --> 00:04:43.408
+into a training session,
+
+00:04:43.533 --> 00:04:49.414
+and I spent a couple of hours over zoom
+teaching folks the basics of collaborating with AI.
+
+00:04:49.414 --> 00:04:53.543
+One of the people in that
+session was a gentleman named Adam Rymer,
+
+00:04:53.584 --> 00:04:55.878
+who works at Glen Canyon National Park.
+
+00:04:55.962 --> 00:05:00.758
+And one of the things I say is you
+should focus on parts of your work that you dread.
+
+00:05:00.758 --> 00:05:03.678
+Parts of your work that you don't enjoy.
+
+00:05:03.720 --> 00:05:05.138
+"Ah, I have to do this again."
+
+00:05:05.263 --> 00:05:09.017
+And Adam said, if I have to replace
+the carpet tiles in the lodge.
+
+00:05:09.142 --> 00:05:10.893
+I have to fill out all this paperwork.
+
+00:05:10.977 --> 00:05:15.440
+And so to replace a carpet tile will
+sometimes take 2 or 3 days of paperwork.
+
+00:05:15.523 --> 00:05:18.651
+Then he thought,
+could AI help me write that paperwork?
+
+00:05:18.735 --> 00:05:23.740
+And in 45 minutes,
+he built a tool with natural language
+
+00:05:23.823 --> 00:05:26.409
+that saves him two days of work.
+
+00:05:26.451 --> 00:05:30.413
+Every day he makes a statement of work
+and then listen to this.
+
+00:05:30.455 --> 00:05:35.626
+Someone got access to that tool
+and shared it across the other parks.
+
+00:05:35.710 --> 00:05:38.004
+There's about 430 parks in the service.
+
+00:05:38.046 --> 00:05:42.258
+The National Park Service is estimating
+that the tool that Adam built in 45 minutes
+
+00:05:42.341 --> 00:05:47.847
+is going to save the service 7000 days of human labor this year.
+
+00:05:48.139 --> 00:05:55.146
+That's the kind of impact that normal
+professionals can have, even without
+
+00:05:55.146 --> 00:06:02.028
+any technical ability, if only they're given
+very basic foundational training.
+
+00:06:02.028 --> 00:06:04.697
+Chapter2. Do not Use AI, Treat It as a Teammate
+
+00:06:04.697 --> 00:06:08.493
+People are wanting to learn AI and how it
+can be transformative for their business,
+
+00:06:08.576 --> 00:06:11.287
+but they don't have the basic language.
+
+00:06:11.370 --> 00:06:15.375
+And so while lots of organizations
+are asking me how can we work with AI
+
+00:06:15.458 --> 00:06:16.793
+to transform our business?
+
+00:06:16.876 --> 00:06:20.213
+Where I have to start with them is
+how do you work with AI?
+
+00:06:20.296 --> 00:06:23.633
+The research I'm familiar with suggests
+that while on the one hand,
+
+00:06:23.716 --> 00:06:29.305
+AI makes people 25% faster
+and 12% more work and 40% better quality,
+
+00:06:29.389 --> 00:06:33.726
+it's also true that less than 10%
+of working professionals
+
+00:06:33.810 --> 00:06:37.688
+are deriving meaningful productivity gains
+from collaboration with AI.
+
+00:06:37.772 --> 00:06:42.026
+To me, there's this enormous gap.
+I call it the realization gap.
+
+00:06:42.110 --> 00:06:45.696
+We conducted studies both
+in Europe and in the United States.
+
+00:06:45.780 --> 00:06:51.285
+And what we found is, surprisingly, AI
+didn't help most people be more creative.
+
+00:06:51.369 --> 00:06:56.541
+In fact, in many cases, the people that we
+studied, AI made them less creative.
+
+00:06:56.624 --> 00:06:58.126
+And as we started digging
+into the research,
+
+00:06:58.209 --> 00:07:00.711
+we were surprised and looked at the data.
+
+00:07:00.795 --> 00:07:03.965
+We were confused because you
+think AI should make people
+
+00:07:04.048 --> 00:07:05.425
+more creative, not less.
+
+00:07:05.508 --> 00:07:10.596
+And we studied the underperformers
+and then we studied the Outperformers.
+
+00:07:10.680 --> 00:07:15.893
+And what we found is the Outperformers
+had a fundamentally different orientation
+
+00:07:15.977 --> 00:07:21.774
+towards AI than the underperformers did,
+whereas the underperformers
+
+00:07:21.858 --> 00:07:23.734
+treated AI like a tool.
+
+00:07:23.818 --> 00:07:28.281
+The outperformers
+treated AI like a teammate,
+
+00:07:28.364 --> 00:07:33.077
+and shifting your orientation
+from tool to teammate changes everything
+
+00:07:33.161 --> 00:07:36.205
+about the kinds of outcomes that you can achieve
+
+00:07:36.205 --> 00:07:40.126
+working with generative AI.
+A simple example is what do you do
+
+00:07:40.209 --> 00:07:43.254
+when it gives you mediocre results?
+
+00:07:43.337 --> 00:07:48.342
+If it's a tool, you get a mediocre result
+and then maybe you improve it.
+
+00:07:48.426 --> 00:07:51.262
+Or maybe you say,
+it's no good at doing that.
+
+00:07:51.345 --> 00:07:54.015
+If it's a teammate
+who's giving you a mediocre result,
+
+00:07:54.098 --> 00:07:58.186
+think about the last teammate who gave you
+work product that wasn't sufficient.
+
+00:07:58.269 --> 00:07:59.645
+You gave them feedback.
+
+00:07:59.729 --> 00:08:04.317
+You gave them coaching, you gave them
+mentorship, you helped them improve it.
+
+00:08:04.400 --> 00:08:08.613
+And so what we found is that people
+who treat AI like a teammate, coach it
+
+00:08:08.696 --> 00:08:13.326
+and give it feedback and importantly,
+get it to ask them questions.
+
+00:08:13.409 --> 00:08:16.287
+The fundamental orientation
+a lot of people take towards AI
+
+00:08:16.370 --> 00:08:18.456
+is I'm the question asker.
+
+00:08:18.497 --> 00:08:20.208
+AI is the answer giver.
+
+00:08:20.833 --> 00:08:25.254
+But if you think about AI like a teammate,
+you say, hey, what are ten questions
+
+00:08:25.338 --> 00:08:26.547
+I should ask about this?
+
+00:08:26.631 --> 00:08:31.052
+Or what do you need to know from me
+in order to get the best response?
+
+00:08:31.135 --> 00:08:34.639
+So things, for example,
+like you have a difficult conversation
+
+00:08:34.722 --> 00:08:36.265
+coming up with a coworker.
+
+00:08:36.349 --> 00:08:38.893
+Did you know you could leverage
+a large language model
+
+00:08:38.976 --> 00:08:41.229
+to roleplay that conversation?
+
+00:08:41.312 --> 00:08:45.483
+You can get an AI to interview you
+about your conversation partner,
+
+00:08:45.566 --> 00:08:49.362
+and then construct a psychological profile
+of your conversation partner,
+
+00:08:49.445 --> 00:08:53.199
+and then play the role of your
+conversation partner in a roleplay,
+
+00:08:53.282 --> 00:08:57.161
+and then give you feedback from the
+perspective of your conversation partner
+
+00:08:57.245 --> 00:08:59.580
+on how you approach the conversation.
+
+00:08:59.664 --> 00:09:03.834
+That's something you can do today,
+and there are many things like that.
+
+00:09:03.918 --> 00:09:04.877
+I call them drills,
+
+00:09:04.961 --> 00:09:08.881
+but there are many things like that
+where if someone will just shift
+
+00:09:08.965 --> 00:09:11.634
+their consideration set of what
+
+00:09:11.717 --> 00:09:16.389
+are the things I can do with AI.
+They end up discovering applications
+
+00:09:16.472 --> 00:09:17.765
+that I've never even dreamed of.
+
+00:09:17.848 --> 00:09:21.143
+I've been doing this stuff for two years,
+and my students are regularly
+
+00:09:21.227 --> 00:09:26.232
+coming to me with use cases I've never
+imagined that landed them in a destination
+
+00:09:26.315 --> 00:09:27.483
+I could have never predicted,
+
+00:09:27.567 --> 00:09:30.111
+and they could never have predicted.
+
+00:09:30.528 --> 00:09:33.698
+For me, I never thought about myself
+as a creative individual.
+
+00:09:33.781 --> 00:09:38.035
+Now, I fully and fundamentally believe
+every single human being
+
+00:09:38.119 --> 00:09:40.413
+has innate creative capacity.
+
+00:09:40.496 --> 00:09:41.789
+Every single one of us.
+
+00:09:41.872 --> 00:09:45.710
+What the D.school has helped me do
+is unlock others.
+
+00:09:45.793 --> 00:09:48.713
+Everyone has
+this latent creative capacity.
+
+00:09:48.796 --> 00:09:52.133
+Once I was teaching a class
+with a hip hop artist named Lecrae.
+
+00:09:52.216 --> 00:09:56.220
+He's a multi-time Grammy Award winning
+artist, and he and I are teaching a class
+
+00:09:56.304 --> 00:09:59.390
+to graduate students at Stanford,
+and we're giving them the assignment.
+
+00:09:59.473 --> 00:10:01.475
+You've got to go get
+inspiration in the world.
+
+00:10:01.559 --> 00:10:05.104
+And what I can see is it's like looking
+at myself in the mirror ten years ago,
+
+00:10:05.187 --> 00:10:06.897
+because all
+of the business school students
+
+00:10:06.981 --> 00:10:10.151
+in the class are going, "inspiration?"
+
+00:10:10.234 --> 00:10:15.281
+And I just felt Lecrae is clearly
+the The creative legend in the room.
+
+00:10:15.364 --> 00:10:18.534
+I said, Lecrae,
+what do you think about inspiration?
+
+00:10:18.618 --> 00:10:21.495
+And of course, as only a hip hop
+artist could do, he dropped a bar.
+
+00:10:21.579 --> 00:10:24.957
+He said, inspiration is a discipline.
+
+00:10:24.957 --> 00:10:27.877
+And I realized in that moment,
+for these students,
+
+00:10:27.960 --> 00:10:33.758
+it's not even on their radar as a tool,
+let alone a routine part of their life.
+
+00:10:33.841 --> 00:10:39.263
+But the most wildly creative individuals
+I know are disciplined about cultivating
+
+00:10:39.347 --> 00:10:41.849
+the inputs to their thinking,
+because they know it affects
+
+00:10:41.932 --> 00:10:43.434
+the outputs of their thinking.
+
+00:10:43.517 --> 00:10:47.146
+And so, even in regards to AI,
+I push people.
+
+00:10:47.229 --> 00:10:49.815
+What is the inspiration
+you're bringing to the model?
+
+00:10:49.899 --> 00:10:52.985
+Everybody has the same access
+to the same ChatGPT.
+
+00:10:53.069 --> 00:10:55.279
+How do I get a different output
+than you do?
+
+00:10:55.363 --> 00:10:59.075
+It's because of what I bring to the model.
+And what do I bring to the model?
+
+00:10:59.158 --> 00:11:03.079
+Certainly I bring technique,
+but I also bring my experience.
+
+00:11:03.162 --> 00:11:04.705
+I bring my perspective.
+
+00:11:04.789 --> 00:11:07.541
+I bring all the inspiration
+I've gleaned from the world.
+
+00:11:07.625 --> 00:11:11.462
+That's what gets a user
+a differential output from a model.
+
+00:11:11.462 --> 00:11:14.507
+Chapter3. How to Go Beyond ‘Good Enough’ Ideas
+
+00:11:14.507 --> 00:11:18.552
+A seventh grader in Ohio
+who I don't even know what her name is,
+
+00:11:18.636 --> 00:11:20.221
+but her teacher asked, what is creativity?
+
+00:11:20.304 --> 00:11:22.598
+And she put a post-it note up on the board that says,
+
+00:11:22.598 --> 00:11:24.266
+Creativity is doing more
+
+00:11:24.266 --> 00:11:26.435
+than the first thing you think of.
+
+00:11:27.353 --> 00:11:31.607
+And that's my favorite definition,
+because it speaks to a profound
+
+00:11:31.691 --> 00:11:33.901
+cognitive bias that we hold.
+
+00:11:33.984 --> 00:11:37.530
+It's been called functional fixedness.
+It's been called the Einstellung effect.
+
+00:11:37.613 --> 00:11:44.245
+But the basic premise is humans tend
+to fixate on an early solution
+
+00:11:44.328 --> 00:11:45.371
+and be satisfied.
+
+00:11:45.454 --> 00:11:48.999
+Herbert Simon called it satisficing,
+but it's the idea that if we get
+
+00:11:49.083 --> 00:11:51.085
+to good enough, it's enough.
+
+00:11:51.168 --> 00:11:53.838
+And that's why I love
+that seventh graders definition.
+
+00:11:53.921 --> 00:11:56.424
+Creativity is doing more
+than the first thing you think of.
+
+00:11:56.507 --> 00:11:59.301
+It's pushing past. Good enough.
+
+00:11:59.385 --> 00:12:03.013
+Is the definition of creativity
+changing in the age of AI?
+
+00:12:03.097 --> 00:12:04.598
+I don't think so.
+
+00:12:04.682 --> 00:12:10.396
+The reality is, with AI, it's now easier
+than ever to get good enough.
+
+00:12:10.479 --> 00:12:13.983
+If your goal is world class,
+if your goal is exceptional, then what you
+
+00:12:14.066 --> 00:12:20.072
+want to be prompting for is actually
+volume and variation, and that takes time.
+
+00:12:20.156 --> 00:12:25.536
+It takes time to not only read through it,
+but to sort it and to process it.
+
+00:12:25.619 --> 00:12:30.207
+But fundamentally, the definition
+of creativity doesn't change in the age of AI.
+
+00:12:30.207 --> 00:12:35.713
+It's just that the human's ability
+or inability to arrive at a creative state
+
+00:12:35.796 --> 00:12:38.466
+is affected not only by the technology,
+
+00:12:38.549 --> 00:12:45.514
+but also by their stated or unstated
+objectives in collaborating with it.
+
+00:12:45.598 --> 00:12:49.310
+Creators don't need to be afraid of AI.
+Creators need to dive in.
+
+00:12:49.393 --> 00:12:50.644
+They need to lean in.
+
+00:12:50.728 --> 00:12:55.566
+Creators are about to be unleashed in
+a way they've never been unleashed before.
+
+00:12:55.649 --> 00:12:59.487
+The only correct answer
+to the question how do you use AI?
+
+00:12:59.570 --> 00:13:04.450
+Is I don't.
+I don't use AI. I work with it.
+
+00:13:04.533 --> 00:13:09.079
+When you start working with AI,
+it will change everything.
+
