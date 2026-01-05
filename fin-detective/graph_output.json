@@ -1,0 +1,104 @@
+{
+    "entities": [
+        {
+            "name": "Reliance Retail",
+            "label": "Company"
+        },
+        {
+            "name": "India",
+            "label": "Country"
+        },
+        {
+            "name": "Boston Consulting Group",
+            "label": "Consulting Firm"
+        },
+        {
+            "name": "Retailers Association of India",
+            "label": "Trade Organization"
+        },
+        {
+            "name": "Deloitte",
+            "label": "Professional Services Firm"
+        },
+        {
+            "name": "Jio",
+            "label": "Company"
+        },
+        {
+            "name": "S&P",
+            "label": "Credit Rating Agency"
+        },
+        {
+            "name": "Moody's",
+            "label": "Credit Rating Agency"
+        },
+        {
+            "name": "CRISIL",
+            "label": "Credit Rating Agency"
+        },
+        {
+            "name": "CARE",
+            "label": "Credit Rating Agency"
+        },
+        {
+            "name": "ICRA",
+            "label": "Credit Rating Agency"
+        },
+        {
+            "name": "India Ratings",
+            "label": "Credit Rating Agency"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "Reliance Retail",
+            "target": "India",
+            "type": "operates_in"
+        },
+        {
+            "source": "Reliance Retail",
+            "target": "Boston Consulting Group",
+            "type": "partnered_with"
+        },
+        {
+            "source": "Reliance Retail",
+            "target": "Retailers Association of India",
+            "type": "member_of"
+        },
+        {
+            "source": "Jio",
+            "target": "India",
+            "type": "operates_in"
+        },
+        {
+            "source": "S&P",
+            "target": "Reliance Industries Limited",
+            "type": "rated"
+        },
+        {
+            "source": "Moody's",
+            "target": "Reliance Industries Limited",
+            "type": "rated"
+        },
+        {
+            "source": "CRISIL",
+            "target": "Reliance Industries Limited",
+            "type": "rated"
+        },
+        {
+            "source": "CARE",
+            "target": "Reliance Industries Limited",
+            "type": "rated"
+        },
+        {
+            "source": "ICRA",
+            "target": "Reliance Industries Limited",
+            "type": "rated"
+        },
+        {
+            "source": "India Ratings",
+            "target": "Reliance Industries Limited",
+            "type": "rated"
+        }
+    ]
+}
